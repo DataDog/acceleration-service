@@ -1,6 +1,6 @@
 module github.com/goharbor/acceleration-service
 
-go 1.24.2
+go 1.25.7
 
 require (
 	github.com/containerd/containerd/v2 v2.0.2
